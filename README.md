@@ -1,5 +1,6 @@
 # Recitation-3308
-# Nhan Nguyen
+# Nhan Nguyeni
+Partner: Ryan Wood
 
 
 
